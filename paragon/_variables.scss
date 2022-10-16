@@ -1,2 +1,12 @@
 // Use this file to set SASS variables for @edx/paragon
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+
+$theme-color: #2392eb;
+$brand: $theme-color;
+$primary: $theme-color;
+
+$font-family-sans-serif: Cairo, -apple-system, BlinkMacSystemFont, "Segoe UI",
+Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$font-family-serif: Cairo, serif, !default;
